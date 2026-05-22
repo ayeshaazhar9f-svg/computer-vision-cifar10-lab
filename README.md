@@ -4,8 +4,8 @@
 ## Transfer Learning with ResNet18 and PyTorch
  
 ## Results
-- Test Accuracy: **XX.XX%**  (fill in your result)
-- Training time: ~3 minutes on Kaggle GPU T4
+- Test Accuracy: 0.7630  (76.30%)  (fill in your result)
+- Training time: approximately 2-4 minutes total
 - Dataset: CIFAR-10 Mini (5,000 images, 10 classes)
  
 ## Model Architecture
